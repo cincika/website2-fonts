@@ -1,0 +1,216 @@
+/* ეს არის html სატის ლოგო */
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 30px;
+}
+
+/* ნავიგაცია */
+.nav-li {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 49px;
+}
+
+.nav-bg01 {
+    color: rgb(238, 64, 54);
+
+}
+
+.nav-bg {
+    color: rgb(61, 88, 166);
+    /* margin-left: 30px; */
+    text-decoration: none;
+    font-size: 22px;
+    display: inline-block;
+
+
+}
+
+/* ეს არის მთავარ მენიუზე ფერების შეცვლა */
+
+/* ეს არის ბანერის ჩამოწევა 77პიქსელით */
+.banner {
+    margin-left: 98px;
+    margin-top: 76px;
+    width: 1170px;
+}
+
+/* ეს არის სექცია მეეორე */
+.selection-text1 {
+    margin-top: 116px;
+    font-size: 24px;
+    color: black;
+    margin-left: 98px;
+    margin-bottom: 40px;
+}
+
+
+.left-block,
+.right-block {
+    background-color: rgb(242, 242, 242);
+    width: 570px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 50px;
+    padding-left: 27.9px;
+    padding-top: 10px;
+}
+
+.block-img {
+    display: inline-block;
+    vertical-align: middle;
+
+
+}
+
+.block-p {
+    display: inline-block;
+    width: 335px;
+    margin-left: 60px;
+    vertical-align: middle;
+}
+
+
+
+/* აქედან იწყება news ები  */
+.calendar {
+    background-color: rgb(61, 88, 166);
+    margin-top: 27px;
+    margin-bottom: 30px;
+    margin-left: 25px;
+}
+
+.h1-texti {
+    margin-top: -25px;
+    margin-left: 20px;
+    color: rgb(61, 88, 166);
+    font-size: 22px;
+
+}
+
+.h2texti {
+    margin-left: 25px;
+    margin-bottom: 12px;
+}
+
+/* აქედან იწყება პირველი სექცია */
+
+.img-block .left {
+    margin-right: 40px;
+    width: 270px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 30px;
+
+}
+
+.img-block .right {
+    display: inline-block;
+    width: 930px;
+
+}
+
+.img-block .right p {
+    margin-bottom: 10px;
+}
+
+/* აქედან იწყება მეორე სექცია  */
+
+.left-block1 .block1 {
+    margin-right: 40px;
+    width: 270px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 30px;
+}
+
+.right-block1 {
+    display: inline-block;
+    width: 930px;
+
+}
+
+.right-block1 p {
+    margin-bottom: 10px;
+}
+
+/* აქედან იწყება მესამე სექცია */
+.section3-leftblock .image3 {
+    margin-right: 40px;
+    width: 270px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 30px;
+}
+
+.section3-rightblock {
+    display: inline-block;
+    width: 930px;
+
+}
+
+.section3-rightblock p {
+    margin-bottom: 10px;
+}
+
+/* აქედან იწყება footer ები */
+
+.footer-social {
+    margin-left: 33px;
+    margin-inline-end: 10px;
+}
+
+/* აქედან იწყება კონტაქტის გვერდი */
+
+.display-leftblock {
+    margin-right: 100px;
+    padding-top: 30px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+/* .display-rightblock {
+    width: 900px;
+    height: 800px;
+    display: inline-block;
+    vertical-align: middle;
+} */
+
+.maps {
+    width: 900px;
+    height: 600px;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+.section-bg {
+    background-color: #e5e5e5;
+
+
+}
+
+.container {
+    width: 1179px;
+    background-color: #e5e5e5;
+    margin: 0 auto auto;
+    margin-bottom: 50px;
+
+}
+
+.contact-title {
+    font-size: 22px;
+    color: #3d58a6;
+}
+
+.number-1 {
+    color: #808080;
+}
+
+/* ეს ეხება index news contacts footer განყოფილებას */
+.footer-1 {
+    margin-left: 10px;
+    margin-top: 68.3px;
+    padding-left: 20px;
+}
