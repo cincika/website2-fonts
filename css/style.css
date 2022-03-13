@@ -164,24 +164,22 @@
 /* აქედან იწყება კონტაქტის გვერდი */
 
 .display-leftblock {
-    margin-right: 100px;
+
+    padding-left: 500px;
     padding-top: 30px;
     display: inline-block;
-    vertical-align: middle;
-}
+    vertical-align: top;
 
-/* .display-rightblock {
-    width: 900px;
-    height: 800px;
-    display: inline-block;
-    vertical-align: middle;
-} */
+}
 
 .maps {
     width: 900px;
     height: 600px;
+
     display: inline-block;
     vertical-align: middle;
+    margin-left: 100px;
+    margin-right: auto;
 
 }
 
@@ -192,7 +190,7 @@
 }
 
 .container {
-    width: 1179px;
+
     background-color: #e5e5e5;
     margin: 0 auto auto;
     margin-bottom: 50px;
