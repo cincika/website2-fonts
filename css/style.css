@@ -10,6 +10,7 @@
     display: inline-block;
     vertical-align: middle;
     margin-left: 49px;
+
 }
 
 .nav-bg01 {
@@ -23,7 +24,7 @@
     text-decoration: none;
     font-size: 22px;
     display: inline-block;
-
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
 
 }
 
@@ -43,6 +44,7 @@
     color: black;
     margin-left: 98px;
     margin-bottom: 40px;
+    font-family: 'Roboto';
 }
 
 
@@ -55,6 +57,12 @@
     margin-left: 50px;
     padding-left: 27.9px;
     padding-top: 10px;
+
+
+}
+
+.right-block-h3 {
+    font-family: 'Roboto';
 }
 
 .block-img {
@@ -69,6 +77,7 @@
     width: 335px;
     margin-left: 60px;
     vertical-align: middle;
+    font-family: 'Roboto';
 }
 
 
@@ -86,12 +95,14 @@
     margin-left: 20px;
     color: rgb(61, 88, 166);
     font-size: 22px;
+    font-family: "BPG Nino Mtavruli", sans-serif;
 
 }
 
 .h2texti {
     margin-left: 25px;
     margin-bottom: 12px;
+    font-family: "BPG Nino Mtavruli", sans-serif;
 }
 
 /* აქედან იწყება პირველი სექცია */
@@ -109,10 +120,12 @@
     display: inline-block;
     width: 930px;
 
+
 }
 
 .img-block .right p {
     margin-bottom: 10px;
+    font-family: "BPG Ingiri Arial", sans-serif;
 }
 
 /* აქედან იწყება მეორე სექცია  */
@@ -128,6 +141,7 @@
 .right-block1 {
     display: inline-block;
     width: 930px;
+    font-family: "BPG Ingiri Arial", sans-serif;
 
 }
 
@@ -147,6 +161,7 @@
 .section3-rightblock {
     display: inline-block;
     width: 930px;
+    font-family: "BPG Ingiri Arial", sans-serif;
 
 }
 
@@ -200,13 +215,19 @@
 .contact-title {
     font-size: 22px;
     color: #3d58a6;
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
 }
 
 .number-1 {
     color: #808080;
+    font-family: "BPG Ingiri Arial", sans-serif;
 }
 
-/* ეს ეხება index news contacts footer განყოფილებას */
+.misaamrtebi {
+    color: black;
+}
+
+/* ეს ეხება index news contacts footer განყოფილებას  */
 .footer-1 {
     margin-left: 10px;
     margin-top: 68.3px;
